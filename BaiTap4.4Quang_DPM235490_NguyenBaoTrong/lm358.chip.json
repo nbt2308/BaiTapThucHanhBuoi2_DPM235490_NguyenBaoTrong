@@ -1,0 +1,14 @@
+{
+  "name": "LM358",
+  "author": "NGUYEN BAO TRONG",
+  "pins": [
+    "OUT_A",
+    "IN_A-",
+    "IN_A+",
+    "VEE",
+    "IN_B+",
+    "IN_B-",
+    "OUT_B",
+    "VCC"
+  ]
+}
