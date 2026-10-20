@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Chuong 4 - 4.5C Arduino va cam bien hong ngoai (IR obstacle) - FIXED",
+  "author": "NGUYEN BAO TRONG",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-breadboard", "id": "bb1", "top": 208.2, "left": 290.8, "attrs": {} },

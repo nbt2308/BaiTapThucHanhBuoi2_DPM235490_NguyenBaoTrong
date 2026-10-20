@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Tran Minh Truong",
+  "author": "NGUYEN BAO TRONG",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-arduino-uno", "id": "uno", "top": 350, "left": 0, "attrs": {} },
